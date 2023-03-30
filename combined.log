@@ -1,0 +1,8 @@
+{"level":"info","message":"Parameters 10 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"New addition operation requested: 10 + 5 = 15","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"New subtract operation requested: 10 - 5 = 5","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
